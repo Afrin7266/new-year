@@ -1,0 +1,227 @@
+/* header styles */
+.header-section{
+    height: 800px;
+    background-image: url(../images/images/banner/banner2.png);
+    margin-bottom: 80px;
+}
+.header-part{
+    text-align: right;
+    padding-top: 200px;
+    padding-right: 150px;
+    padding-left: 650px;
+}
+.header-heading{
+font-size: 50px;
+font-weight: 900;
+margin-bottom: 35px;
+}
+.header-body{
+font-size: 14px;
+font-weight: 500;
+color: grey;
+margin-bottom: 35px;
+}
+.header-btn{
+color: aliceblue;
+background: orangered;
+height: 45px;
+width: 115px;
+border: 0px solid orangered;
+border-radius: 5px;
+}
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+span{
+    color: rgb(70, 208, 70);
+}
+/* main section styles */
+.main-section{
+height: 800px;
+background-image: url(../images/images/person.png);
+background-repeat: no-repeat;
+background-position: left 50px center;
+}
+.main-part{
+text-align: right 500px center;
+padding-top: 200px;
+padding-left: 650px;
+padding-right:200px;
+}
+.main-head{
+font-weight: 900;
+margin-bottom: 30px;
+}
+.main-body{
+font-size: 13px;
+font-weight: 500;
+color: grey;
+margin-bottom: 20px;
+}
+
+.main-menu{
+    text-align: right 500px center;
+    padding-left: 650px;
+    padding-right:200px;  
+    font-size: 13px;
+    color: grey;
+    margin-bottom: 200px;
+}
+.main-menu p{
+    margin-bottom: 10px;
+}
+.plan{
+    text-align: center;
+    font-weight: 900;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.smoking-habit{
+    display: flex;
+    gap: 90px;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.smoking-habit div img{
+    margin-bottom: 10px;
+    font-size: 3rem;
+}
+.smoking-habit h3{
+    margin-bottom: 8px;
+}
+.container{
+    height: 70px;
+}
+.smoking-habit h3{
+    font-size: 22px;
+    font-weight: 900;
+}
+.smoking-habit p{
+    color: grey;
+    font-size: 15px;
+    font-weight: 600;
+}
+/* .background-set{
+    border: 0px solid yellow;
+    background-image: url(../images/images/watch.png);
+    height: 250px;
+    width: 700px;
+    margin-left: 225px;
+    margin-right: 200px;
+}
+.images{
+margin-right: 200px;
+} */
+.background-set{
+    border: 0px solid orange;
+    border-radius: 8px;
+    background-image: url(../images/images/gradient3.png) ,url(../images/images/watch.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 220px;
+    width: 1000px;
+    padding: left 30px;
+    margin-bottom: 80px;
+}
+.images{
+    height: 200px;
+    width: 900px;
+}
+.background-set h1{
+    color: aliceblue;
+    font-size: 35px;
+    font-weight: 800;
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-right: 400px;
+    margin-bottom: 20px;
+}
+.btn{
+    color: rgb(237, 102, 52);
+    background: white;
+    height: 50px;
+    width: 120px;
+    font-size: 15px;
+    font-weight: 900;
+    border: 0px;
+}
+.background-set button{
+    margin-left: 40px;
+    border-radius: 5px;
+}
+ .footer{
+    height: 400px;
+    background-color: black;
+    display: flex;
+    gap: 200px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 150px;
+} 
+.footer h1{
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+.footer p{
+    color: aliceblue;
+    font-size: 12px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.footer img{
+    height: 35px;
+}
+.footer{
+    color: aliceblue;
+}
+.footer .phone{
+    margin-bottom: 25px;
+}
+.address h3{
+    margin-bottom: 20px;
+}
+.address input{
+    color: white;
+    height: 45px;
+    width: 250px;
+    background: black;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding-left: 14px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.address button{
+    color: orangered;
+    height: 50px;
+    width: 120px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 16px;
+    border: 0px;
+}
+.fb{
+    padding-right: 10px;
+}
+.tw{
+    padding-right: 10px;
+}
+    
+
+
+
+
+
+
+
+
+
