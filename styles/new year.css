@@ -119,19 +119,12 @@ margin-right: 200px;
     border: 0px solid orange;
     border-radius: 8px;
     background-image: url(../images/images/gradient3.png) ,url(../images/images/watch.png);
-    background-size: cover;
-    background-position: center;
     background-repeat: no-repeat;
+    height: 250px;
     margin-left: 100px;
     margin-right: 100px;
-    height: 220px;
-    width: 1000px;
     padding: left 30px;
     margin-bottom: 80px;
-}
-.images{
-    height: 200px;
-    width: 900px;
 }
 .background-set h1{
     color: aliceblue;
